@@ -1,4 +1,4 @@
-# Barcodes for demultiplexing with fastx_toolkit for 2021 NS 20.1
+# EXAMPLE: Barcodes for demultiplexing with fastx_toolkit
 IP1	TCCAC
 IP2	CCGGA
 IP3	AGGCA
